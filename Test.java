@@ -1,5 +1,4 @@
 public class Test {
-    package org.example;
 
     public class Main {
         public static void main(String[] args) {
@@ -122,11 +121,10 @@ public class Test {
 
             System.out.println(a + 10 > 15 || b - 5 > 10 && a < b);
 
-
-
             String h = "5";
             int s = Integer.parseInt(h);
             System.out.println(s + 10);
+            System.out.println("Ты тупой тимлид");
         }
     }
 }
