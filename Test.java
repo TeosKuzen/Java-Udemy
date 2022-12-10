@@ -125,6 +125,7 @@ public class Test {
             int s = Integer.parseInt(h);
             System.out.println(s + 10);
             System.out.println("Ты тупой тимлид");
+            System.out.println("Ты тупой тимлид");
         }
     }
 }
